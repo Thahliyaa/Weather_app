@@ -35,15 +35,3 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 ---
 
-## 📄 License
-
-Built with ❤️ by **Barmajli**.  
-Feel free to use and modify for your own projects!
-
----
-
-## 📞 Connect with Barmajli
-
-- YouTube: [Subscribe Here](https://www.youtube.com/@Barmajli)
-- GitHub: [Follow Here](https://github.com/aziz-chniti)
-- Instagram: [Message Here](https://www.instagram.com/barmajli)
